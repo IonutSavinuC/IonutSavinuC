@@ -6,6 +6,6 @@ I'm always willing to learn, searching for new things so that I can develop myse
 
 📌 My LinkedIn profile: www.linkedin.com/in/ionut-savin 
 
-📌 My Udemy course: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ 
+📌 Udemy course: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ 
 
 
