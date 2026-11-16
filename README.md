@@ -1,11 +1,44 @@
-👋 Hello, I’m Ionut Savin and this is my GitHub portfolio.
+# Hi there, I'm Ionut Savin 👋
 
-I have completed a QA Manual & Automation Testing course, where I gained hands-on experience with test case creation, bug reporting in Jira, API testing with Postman, and automation testing using CypressJS. Additionally, I explored basic performance testing with JMeter and version control with GitHub and SourceTree.
+### QA Engineer | Manual & Automation Testing (Playwright)
 
-I'm always willing to learn, searching for new things so that I can develop myself. I consider myself optimistic, curious, and I have a strong desire to learn new things
+I am a dedicated QA Engineer with practical experience in manual testing, End-to-End (E2E) test automation, and API testing across web and iOS applications. Through my work in Agile software teams (such as **Thinslices** and **Vially**), I have focused on ensuring software quality, writing clear test documentation, and building maintainable automated tests.
 
-📌 My LinkedIn profile: www.linkedin.com/in/ionut-savin 
+I enjoy learning new tools step by step and improving my technical skills every day.
 
-📌 Udemy course: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ 
+---
 
+### 🛠️ Tools & Technologies I Work With
+* **Test Automation:** Playwright, JavaScript, TypeScript, Page Object Model (POM)
+* **Manual & API Testing:** Functional, Regression & Exploratory Testing (Web & iOS), Postman, REST APIs
+* **CI/CD & Tools:** GitHub Actions, Git, Jira, Browser DevTools
+
+---
+
+### 🚀 Practice & Portfolio Projects
+
+#### 1. HR CRM Web App — Playwright Automation Project
+[![Enterprise E2E Tests](https://github.com/IonutSavinuC/playwright-enterprise-crm/actions/workflows/playwright.yml/badge.svg)](https://github.com/IonutSavinuC/playwright-enterprise-crm/actions)
+* **Test Automation Repository:** [View Code on GitHub](https://github.com/IonutSavinuC/playwright-enterprise-crm)
+* **Target Web Application (System Under Test):** [PeopleCore HR Demo App](https://peoplecore-hr-demo.lovable.app) | [App Repository](https://github.com/IonutSavinuC/peoplecore-hr-demo)
+* A practice project built to automate key user flows on a custom HR web application (`PeopleCore HR`) using Playwright, TypeScript, and the Page Object Model (POM).
+* Covers login validation, adding/deleting employees, file uploads, table search/sorting, and running tests automatically via cross-repo triggers in GitHub Actions.
+
+#### 2. SauceDemo E-Commerce — Playwright Test Suite
+[![Playwright Tests](https://github.com/IonutSavinuC/playwright-automation-portfolio/actions/workflows/playwright.yml/badge.svg)](https://github.com/IonutSavinuC/playwright-automation-portfolio/actions)
+* **Test Automation Repository:** [View Code on GitHub](https://github.com/IonutSavinuC/playwright-automation-portfolio)
+* Automated E2E tests for the SauceDemo store covering authentication, product sorting, shopping cart flows, and checkout validation, integrated with GitHub Actions.
+
+---
+
+### 📌 What I Focus On
+* **Manual & Exploratory Testing:** Functional, regression, and scenario-based testing for web and mobile (iOS) apps, along with detailed bug reporting.
+* **E2E Test Automation:** Writing clean, readable tests using Playwright and Page Object Model (POM).
+* **API Testing:** Verifying REST APIs, status codes, authentication, and negative scenarios using Postman.
+
+---
+
+### 🤝 Connect With Me
+* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/ionut-savin)
+* **Email:** savinionut29@gmail.com
 
