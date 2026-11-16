@@ -39,6 +39,7 @@ I enjoy learning new tools step by step and improving my technical skills every 
 ---
 
 ### 🤝 Connect With Me
-* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/ionut-savin)
-* **Email:** savinionut29@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ionut-savin)
+[![Gmail](https://img.shields.io/badge/EmailMe-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savinionut29@gmail.com)
+
 
